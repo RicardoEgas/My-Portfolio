@@ -19,11 +19,15 @@
   h1 {
     font-size: 3.125rem;
     font-family: 'Playfair Display', serif;
+    line-height: 100%;
+    word-spacing: 30rem;
+    margin: 0;
   }
 
   p {
     font-family: 'Poppins', sans-serif;
     font-size: 0.875rem;
+    line-height: 1.5rem;
   }
 
   .image1 {
@@ -46,7 +50,6 @@
   button {
     background-color: #1a2236;
     color: white;
-    width: 18rem;
     height: 3.125rem;
     font-size: 1rem;
     box-sizing: border-box;
