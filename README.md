@@ -61,7 +61,7 @@ After you're finished please remove all the comments and instructions!
 # 📖 [My Porfolio] <a name="about-project"></a>
 
 
-My Portfolio part 1 is part of day 3 project for Microverse which consists in building a mobile page replicating a template from Figma.
+My Portfolio part 2 is part of day 4 project for Microverse which consists in completing the build of a mobile page replicating a template from Figma.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -98,6 +98,7 @@ My Portfolio part 1 is part of day 3 project for Microverse which consists in bu
 
 - **[Flexbox]**
 - **[MediaQuery]**
+- **[CSSGrid]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
