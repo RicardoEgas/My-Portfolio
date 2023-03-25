@@ -62,6 +62,10 @@
     flex-direction: column;
   }
 
+  .image3 {
+    margin: 0;
+  }
+
   .Collaboration {
     background-color: #1a2236;
     color: white;
